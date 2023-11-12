@@ -1,0 +1,16 @@
+version: '3.12.1'
+services:
+  rabbitmq:
+    image: rabbitmq:3.12.1-management
+    container_name: rabbitmq
+    ports:
+      - 5672:5672
+      - 15672:15672
+    environment:
+      - RABBITMQ_ERLANG_COOKIE=cola
+      - RABBITMQ_DEFAULT_USER=starling
+      - RABBITMQ_DEFAULT_PASS=1170155
+    volumes:
+      - ./rabbitmq:/var/lib/rabbitmq
+
+  
