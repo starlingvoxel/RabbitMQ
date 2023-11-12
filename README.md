@@ -4,10 +4,11 @@ Aplicación en NodeJS que permitir enviar mensajes a RabbitMQ.
 
 Luego se consume el mensaje enviado a RabbitMQ y se muestra el mensaje por consola, luego se elimina.
 
-![image](https://github.com/starlingvoxel/RabbitMQ-main/assets/90937852/77c932ef-4f3c-4abf-b5ab-01e34d63407a)
+![image](https://github.com/starlingvoxel/RabbitMQ/assets/90937852/854e78ef-66e4-44fd-a468-b4ab344064ce)
 
-![image](https://github.com/starlingvoxel/RabbitMQ-main/assets/90937852/3836234c-41d0-465a-a9fa-1f4df7bbc2e3)
+![image](https://github.com/starlingvoxel/RabbitMQ/assets/90937852/d087a70f-c31a-4068-93b5-b0c1c479210f)
+![image](https://github.com/starlingvoxel/RabbitMQ/assets/90937852/89e9fe09-5839-4891-a360-3a2718c6a30d)
 
-![image](https://github.com/starlingvoxel/RabbitMQ-main/assets/90937852/6dd1bd84-d07f-4fb5-97a8-f95a9c4e6ac9)
+
 
 
